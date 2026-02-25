@@ -20,7 +20,7 @@ ul {
     margin-bottom: 50px;
   }
   .list_box {
-    width: 400px;
+    width: 30px;
     background-color: var(--sub-txt-color);
     margin-left: 30px;
     margin-bottom: 30px;
@@ -41,4 +41,5 @@ ul {
     margin-bottom: 27px;
     margin-left: 270px;
     margin-top: 20px;
+
   }
